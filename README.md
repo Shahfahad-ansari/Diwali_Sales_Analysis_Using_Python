@@ -1,7 +1,5 @@
 # Diwali Sales Analysis Report
 
-### Download the complete report from here: Diwali Sales Analysis  
-
 **Overview**  
 This project focuses on analyzing Diwali sales data to uncover key trends, customer behavior, and factors impacting sales performance. The analysis aims to provide actionable insights to enhance marketing strategies and boost overall revenue during the festive season.  
 
